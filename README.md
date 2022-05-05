@@ -1,8 +1,8 @@
 # Lijst met gevalideerde API's
-Een door NOVI gevalideerde lijst van API's om te gebruiken voor jouw Integrale Eindopdracht Frontend
+Een door NOVI gevalideerde lijst van API's om te gebruiken voor jouw Integrale Eindopdracht Frontend.
 
 ## API's
-Sommige API's hebben een rate limit. Dit betekent dat je niet meer dan x requests per dag mag maken in de gratis versie. Dit is normaliter geen probleem, maar kan tijdens het testen soms vervelend zijn.
+Sommige API's hebben een rate limit. Dit betekent dat je niet meer dan x requests per dag mag maken in de gratis versie. Dit is in principe geen probleem, maar kan tijdens het testen soms vervelend zijn.
 
 | **Naam**                                                                                   | **Onderwerp** | **Beschrijving**                                                                                                             | **Opmerkingen**                                                                         |
 |--------------------------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
